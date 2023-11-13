@@ -35,4 +35,4 @@ py test_main.py
 Make sure you have all the right dependencies installed.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/luvlu1s/TaskMngr2.0/blob/main/screenshots/Screenshot%202023-11-13%20124305.png)
